@@ -33,7 +33,7 @@
 
 # 📄 Resume
 <p align="center">
-  <a href="https://github.com/Bhagyaprasad92/resume">
+  <a href="https://drive.google.com/file/d/1dtOFWZboxR6cUFr_zgPCzBqAr5nQco11/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20Here-%2300C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>

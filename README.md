@@ -1,7 +1,4 @@
 <!-- 🔥 Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+Bhagya+Prasad;💻+Passionate+Coder+%7C+ML+Explorer;☁️+Cloud+Enthusiast;🚀+Future+Software+Engineer;🔥+Let's+Code+Something+Amazing!" alt="Typing Animation"/>
-</p>
 
 <!-- Banner GIF -->
 <p align="center">

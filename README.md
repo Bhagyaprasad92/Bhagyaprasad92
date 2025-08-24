@@ -27,8 +27,6 @@
 🤝 I love collaborating with diverse teams to build **innovative solutions**.  
 🌐 Always eager to **expand my skills** and contribute to **impactful projects**.  
 
-⚡ *“Think. Code. Innovate. Repeat.”*  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>

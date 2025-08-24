@@ -65,8 +65,9 @@
 <p align="center">
   <!-- Voice Verse -->
   <!-- Voice Verse (Custom Card) -->
+  <!-- Voice Verse (Custom Styled Card) -->
   <a href="https://voice-verse-25.web.app/">
-    <img src="https://img.shields.io/badge/Visit%20VoiceVerse-%2300C853.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height="100"/>
+    <img src="https://img.shields.io/badge/VoiceVerse-LIVE%20PROJECT-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1A1B27" height="120"/>
   </a>
 
   <!-- Portfolio -->

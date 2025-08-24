@@ -32,26 +32,25 @@
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/bhagyaprasad/">
-    <img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="250"/>
+    <img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="230"/>
   </a>
   
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/bhagyaprasad92">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="250"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/bhagyaprasad92">
-    <img src="https://codechef-api.vercel.app/badge/bhagyaprasad92?theme=dark" height="250"/>
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="230"/>
   </a>
   
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/YourCFUsername">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YourCFUsername&theme=dark" height="250"/>
+  <a href="https://codeforces.com/profile/bhagyaprasad92">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad92&theme=dark" height="230"/>
+  </a>
+
+  <!-- CodeChef (badge only for now) -->
+  <a href="https://www.codechef.com/users/bhagyaprasad92">
+    <img src="https://img.shields.io/badge/CodeChef-bhagyaprasad92-5B4638?style=for-the-badge&logo=codechef" height="50"/>
   </a>
 </p>
+
 
 ---
 

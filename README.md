@@ -41,8 +41,8 @@
   </a>
   
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/bhagyaprasad92">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad92&theme=dark" height="230"/>
+  <a href="https://codeforces.com/profile/bhagyaprasad">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad&theme=dark" height="230"/>
   </a>
 
   <!-- CodeChef (badge only for now) -->

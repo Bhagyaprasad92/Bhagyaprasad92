@@ -105,8 +105,9 @@
 
 # 🎯 Visitors Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bhagyaprasad92&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
 </p>
+
 
 ---
 

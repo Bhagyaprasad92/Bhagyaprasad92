@@ -64,13 +64,17 @@
 
 # 🚀 Featured Projects
 <p align="center">
+  <!-- Voice Verse -->
   <a href="https://voice-verse-25.web.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=VoiceVerse&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=voice-verse-25&theme=tokyonight"/>
   </a>
+
+  <!-- Portfolio -->
   <a href="https://github.com/Bhagyaprasad92/my_portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=tokyonight"/>
   </a>
 </p>
+
 
 ---
 

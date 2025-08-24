@@ -19,11 +19,11 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-<h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
-<h4 align="center">I enjoy standing out—it's a hobby of mine.</h4>
+<h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science (CSE).</h3>
+<h4 align="center">I enjoy standing out—it’s my way of making an impact.</h4>
 
-As an innovative Software Engineer, I have a strong background in programming and problem-solving. I am proficient in multiple programming languages and development tools, and I am currently learning AWS Cloud Development with a keen interest in Web Development. I am enthusiastic about collaborating with cross-functional teams to create innovative products and am always seeking opportunities to apply and expand my skills in dynamic environments.
-
+As a passionate Software Developer, I have a strong foundation in programming and problem-solving. I am skilled in multiple languages including C, Java, Python, HTML, CSS, and I am currently deepening my expertise in Flutter, Firebase, and AI/ML.
+🤝 I love collaborating with diverse teams to build innovative solutions and am always looking for opportunities to expand my skills and contribute to impactful projects.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />

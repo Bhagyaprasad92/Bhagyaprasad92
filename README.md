@@ -4,7 +4,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 
 # 💫 About Me
 - 🚀 **CSE Student | Passionate Problem Solver**  
@@ -15,7 +18,9 @@
 - ⚡ Motto: *“Think. Code. Innovate. Repeat.”*
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -27,7 +32,9 @@
   <a href="https://github.com/Bhagyaprasad92"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 # 🚩 Coding Profiles (Animated Stats)
 <p align="center">
@@ -53,14 +60,19 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 # 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,firebase,flutter,dart,linux,git,github" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 # 🚀 Featured Projects
 <p align="center">
   <!-- Voice Verse -->
@@ -78,7 +90,10 @@
 
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 
 # 📊 GitHub Stats & Activity
 <p align="center">
@@ -93,21 +108,28 @@
 
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 # ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 # 🏆 Top Contributions
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Bhagyaprasad92&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 
 # 🎯 Visitors Count
 <p align="center">

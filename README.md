@@ -64,8 +64,9 @@
 # 🚀 Featured Projects
 <p align="center">
   <!-- Voice Verse -->
+  <!-- Voice Verse (Custom Card) -->
   <a href="https://voice-verse-25.web.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=voice-verse-25&theme=tokyonight"/>
+    <img src="https://img.shields.io/badge/Visit%20VoiceVerse-%2300C853.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height="100"/>
   </a>
 
   <!-- Portfolio -->

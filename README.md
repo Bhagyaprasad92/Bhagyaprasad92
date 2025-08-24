@@ -117,8 +117,9 @@
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/yourgif.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+
 
 
 

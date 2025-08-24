@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagya-prasad-dannina)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Bhagyaprasad92/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagya-prasad-dannina-65a509291/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/bhagyaprasad/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-%2300765D.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/bhagyaprasad92)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/Bhagyaprasad92)  
 
@@ -37,7 +37,7 @@
 <h3 align="left">📊 Coding Profiles:</h3>
 
 ### 🔹 LeetCode Stats  
-[![Bhagya's LeetCode Stats](https://leetcard.jacoblin.cool/Bhagyaprasad92?theme=dark&ext=contest)](https://leetcode.com/Bhagyaprasad92/)  
+[![Bhagya's LeetCode Stats](https://leetcard.jacoblin.cool/Bhagyaprasad92?theme=dark&ext=contest)](https://leetcode.com/u/bhagyaprasad/)  
 
 ### 🔹 GeeksforGeeks Stats  
 [![Bhagya's GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92)](https://auth.geeksforgeeks.org/user/bhagyaprasad92)  

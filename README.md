@@ -22,12 +22,13 @@
 <h3 align="center">👨‍💻 A Student Pursuing Bachelor of Technology in Computer Science (CSE)</h3>  
 <h4 align="center">🌟 I enjoy standing out — it’s my way of making an impact.</h4>  
 
-🚀 As a passionate **Software Developer**, I have a strong foundation in **programming and problem-solving**.  
-💡 Skilled in multiple languages including **C, Java, Python, HTML, CSS**, and currently exploring **Flutter, Firebase, and AI/ML**.  
-🤝 I love collaborating with diverse teams to build **innovative solutions**.  
-🌐 Always eager to **expand my skills** and contribute to **impactful projects**.  
-
-⚡ *“Think. Code. Innovate. Repeat.”*  
+<p align="center">
+🚀 As a passionate <b>Software Developer</b>, I have a strong foundation in <b>programming and problem-solving</b>. <br><br>
+💡 Skilled in multiple languages including <b>C, Java, Python, HTML, CSS</b>, and currently exploring <b>Flutter, Firebase, and AI/ML</b>. <br><br>
+🤝 I love collaborating with diverse teams to build <b>innovative solutions</b>. <br><br>
+🌐 Always eager to <b>expand my skills</b> and contribute to <b>impactful projects</b>. <br><br>
+⚡ <i>“Think. Code. Innovate. Repeat.”</i>  
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />

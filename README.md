@@ -60,7 +60,7 @@
 
 # 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,firebase,flutter,dart,tensorflow,pytorch,pandas,numpy,linux,git,react,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,firebase,flutter,dart,linux,git,github" />
 </p>
 
 ---

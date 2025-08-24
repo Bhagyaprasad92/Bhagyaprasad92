@@ -3,11 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Mobile+Application+Developer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-
 
 # 💫 About Me
 - 🚀 **CSE Student | Passionate Problem Solver**  
@@ -17,6 +15,16 @@
 - 🎯 Active in **Competitive Coding (LeetCode, GFG, Codeforces, CodeChef)**  
 - ⚡ Motto: *“Think. Code. Innovate. Repeat.”*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+# 📄 Resume
+<p align="center">
+  <a href="https://github.com/Bhagyaprasad92/resume">
+    <img src="https://img.shields.io/badge/Resume-View%20Here-%2300C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -59,7 +67,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
@@ -76,8 +83,6 @@
 # 🚀 Featured Projects
 <p align="center">
   <!-- Voice Verse -->
-  <!-- Voice Verse (Custom Card) -->
-  <!-- Voice Verse (Custom Styled Card) -->
   <a href="https://voice-verse-25.web.app/">
     <img src="https://img.shields.io/badge/VoiceVerse-LIVE%20PROJECT-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1A1B27" height="120"/>
   </a>
@@ -88,12 +93,9 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-
 
 # 📊 GitHub Stats & Activity
 <p align="center">
@@ -104,9 +106,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaprasad92&theme=tokyo-night&area=true"/>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -130,7 +129,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-
 # 🎯 Visitors Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
@@ -139,8 +137,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-
-
-
 
 <p align="center"><b>💡 "Code. Learn. Build. Repeat."</b></p>

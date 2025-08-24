@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-
+<!--
 # 💫 About Me
 - 🚀 **CSE Student | Passionate Problem Solver**  
 - 💡 Exploring **AI/ML, Cloud Computing & Real-Time Applications**  
@@ -14,7 +14,7 @@
 - 🌐 Keen interest in **Human-Computer Interaction (HCI)**  
 - 🎯 Active in **Competitive Coding (LeetCode, GFG, Codeforces, CodeChef)**  
 - ⚡ Motto: *“Think. Code. Innovate. Repeat.”*
-
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>

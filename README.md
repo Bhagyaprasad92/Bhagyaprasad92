@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Cyber+Explorer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
 
-<!-- Matrix Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" height="250"/>
-</p>
 
 ---
 

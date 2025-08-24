@@ -61,7 +61,6 @@
 </p>
 
 ---
-
 # 🚀 Featured Projects
 <p align="center">
   <!-- Voice Verse -->
@@ -74,6 +73,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=tokyonight"/>
   </a>
 </p>
+
 
 
 ---

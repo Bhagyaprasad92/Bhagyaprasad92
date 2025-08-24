@@ -30,18 +30,22 @@
 
 ---
 
-## 🚩 Coding Profiles (Animated)
+## ​ Coding Profiles (Animated)
 
 <p align="center">
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Bhagyaprasad92?theme=dark&ext=heatmap" height="220"/>
-  
-  <!-- GeeksforGeeks Stats -->
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="220"/>
-  
-  <!-- CodeChef Stats (via shields & badges) -->
-  <img src="https://img.shields.io/badge/CodeChef-Bhagyaprasad92-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="200"/>
+
+  <!-- GFG Stats -->
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="200"/>
+
+  <!-- CodeChef Rank Badge -->
+  ![CodeChef Rank](https://img.shields.io/badge/CodeChef-Bhagyaprasad92-Ranked-Web-ff6600?style=for-the-badge&logo=codechef&logoColor=white)
+
+  <!-- Codeforces Stats Card -->
+  [![Codeforces Stats Card](https://codeforces-readme-stats.vercel.app/api/card?username=YourCFUsername&theme=dark)](https://codeforces.com/profile/YourCFUsername)
 </p>
+
 
 ---
 

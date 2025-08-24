@@ -113,8 +113,9 @@
 
 <!-- Fun Animated Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4Xpu/giphy.gif" width="280"/>
 </p>
+
 
 
 <p align="center"><b>💡 "Code. Learn. Build. Repeat."</b></p>

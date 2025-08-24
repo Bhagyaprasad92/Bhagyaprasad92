@@ -136,8 +136,6 @@
   <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
 </p>
 
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>

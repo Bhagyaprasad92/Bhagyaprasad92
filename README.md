@@ -7,11 +7,13 @@
 ---
 
 # 💫 About Me
-- 🚀 **Computer Science Student & Competitive Coder**  
-- 💡 Exploring **Machine Learning, Data Science & Cloud Computing**  
-- 🌐 Passionate about **HCI & Real-Time Applications**  
-- 🎯 Aspiring **Software Engineer – Building Impactful Tech**  
-- ⚡ Motto: *“Code. Learn. Build. Repeat.”*
+- 🚀 **CSE Student | Passionate Problem Solver**  
+- 💡 Exploring **AI/ML, Cloud Computing & Real-Time Applications**  
+- 📱 Building projects with **Flutter, Firebase & Modern Web Tech**  
+- 🌐 Keen interest in **Human-Computer Interaction (HCI)**  
+- 🎯 Active in **Competitive Coding (LeetCode, GFG, Codeforces, CodeChef)**  
+- ⚡ Motto: *“Think. Code. Innovate. Repeat.”*
+
 
 ---
 

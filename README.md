@@ -90,9 +90,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaprasad92&theme=tokyo-night&area=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagyaprasad92&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 
 

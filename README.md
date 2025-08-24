@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/bhagya-prasad-dannina-65a509291/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
   <a href="https://leetcode.com/u/bhagyaprasad/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/></a>
   <a href="https://www.codechef.com/users/bhagyaprasad92"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="50"/></a>
-  <a href="https://codeforces.com/profile/YourCFUsername"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="50"/></a>
+  <a href="https://codeforces.com/profile/bhagyaprasad"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="50"/></a>
   <a href="https://auth.geeksforgeeks.org/user/bhagyaprasad92"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="50"/></a>
   <a href="https://github.com/Bhagyaprasad92"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </p>

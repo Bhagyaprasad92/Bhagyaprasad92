@@ -116,10 +116,8 @@
 
 
 ---
-
-<!-- Fun Animated Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4Xpu/giphy.gif" width="280"/>
+  <img src="https://i.imgur.com/yourgif.gif" width="280"/>
 </p>
 
 

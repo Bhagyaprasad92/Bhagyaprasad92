@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Cyber+Explorer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" height="250"/>
+</p>
+
 ---
 
 # 💫 About Me

@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Mobile+Application+Developer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
-<!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p> -->
+</p>
 <!--
 # 💫 About Me
 - 🚀 **CSE Student | Passionate Problem Solver**  
@@ -37,8 +37,6 @@
 ![Bhagya Prasad](https://drive.google.com/file/d/1tKrdW7ZRKyb-FT3EvKml2lWcVeJRiSHl/view?usp=sharing)
 
 <!-- <h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1> -->
-
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 

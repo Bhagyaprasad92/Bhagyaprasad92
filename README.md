@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Mobile+Application+Developer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
-
+<!
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+</p> -->
 <!--
 # 💫 About Me
 - 🚀 **CSE Student | Passionate Problem Solver**  
@@ -21,8 +21,8 @@
 ### Hi there 👋
 **omteja04/omteja04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<!--Here are some ideas to get you started:-->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
  <!-- cSpell:disable -->
 
-![Omteja Yallapragada](https://github.com/omteja04/omteja04/blob/icons/MyBanner-2.png)
+![Bhagya Prasad](https://drive.google.com/file/d/1tKrdW7ZRKyb-FT3EvKml2lWcVeJRiSHl/view?usp=sharing)
 
 <!-- <h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1> -->
 

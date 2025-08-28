@@ -3,6 +3,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Mobile+Application+Developer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
 </p>
 
+<!--
+
+
+### Hi there 👋
+**Bhagya prasad/Bhagya Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ <!-- cSpell:disable -->
+
+![Bhagya Prasad dannina](https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/main/Github_profile_Banner.jpg)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>

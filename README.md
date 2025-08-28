@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 -->
  <!-- cSpell:disable -->
 
-![Bhagya Prasad](https://drive.google.com/file/d/1tKrdW7ZRKyb-FT3EvKml2lWcVeJRiSHl/view?usp=sharing)
 
 <!-- <h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1> -->
 

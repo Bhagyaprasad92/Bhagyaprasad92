@@ -163,6 +163,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
+## 🏅 GitHub Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhagyaprasad92&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="trophies"/>
+</p>
+
 # ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>

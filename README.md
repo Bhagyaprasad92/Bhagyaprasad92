@@ -123,7 +123,7 @@ a 10k-row database with zero SQL knowledge. 95% test coverage.
 <td width="50%" valign="top">
 
 **Portfolio Site**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=dark" />
+<img src="https://my-github-stats-beta.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=dark" />
 
 </td>
 </tr>
@@ -155,17 +155,17 @@ a 10k-row database with zero SQL knowledge. 95% test coverage.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhagyaprasad92&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+<img src="https://my-github-trophy.vercel.app/?username=Bhagyaprasad92&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 
 <br>
 
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://my-github-stats-beta.vercel.app/api?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://my-github-stats-beta.vercel.app/api/top-langs/?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>

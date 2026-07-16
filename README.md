@@ -28,8 +28,8 @@ Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 
 <div align="center">
 
 <!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/output/contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-<img src="https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/output/github-snake-dark.svg" width="860" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+<img src="https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/github-snake-dark.svg" width="860" alt="contribution snake" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
 

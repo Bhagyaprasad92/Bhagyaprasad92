@@ -1,197 +1,185 @@
-<!--
+<!-- cSpell:disable -->
+<div align="center">
 
-### Hi there 👋
-**Bhagya prasad/Bhagya Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/main/Github_profile_Banner.jpg" alt="Bhagya Prasad Dannina" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3500&pause=1000&color=A6D7FF&center=true&vCenter=true&width=650&lines=Bhagya+Prasad+Dannina;Full+Stack+Flutter+Developer;Code.+Ship.+Repeat." alt="typing banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!-- cSpell:disable -->
+<br>
 
-![Bhagya Prasad dannina](https://raw.githubusercontent.com/Bhagyaprasad92/Bhagyaprasad92/main/Github_profile_Banner.jpg)
+<table>
+<tr>
+<td valign="top"><img src="./prasad-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-<!-- 🟢 Hacker Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=a6d7ff&center=true&vCenter=true&width=650&lines=👨‍💻+Bhagya+Prasad;💀+Mobile+Application+Developer+%7C+AI+Enthusiast;⚡+Code.+Hack.+Build.+Repeat."/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-<!--
-# 💫 About Me
-- 🚀 **CSE Student | Passionate Problem Solver**  
-- 💡 Exploring **AI/ML, Cloud Computing & Real-Time Applications**  
-- 📱 Building projects with **Flutter, Firebase & Modern Web Tech**  
-- 🌐 Keen interest in **Human-Computer Interaction (HCI)**  
-- 🎯 Active in **Competitive Coding (LeetCode, GFG, Codeforces, CodeChef)**  
-- ⚡ Motto: *“Think. Code. Innovate. Repeat.”*
--->
-<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhagyaprasad.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bhagyaprasad.dev)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Bhagya_Prasad_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhagya--prasad--dannina-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bhagya-prasad-dannina-65a509291/)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhagyaprasad92-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhagyaprasad92)
 
+</div>
 
-### Hi there 👋
-**bhagyaprasad92/bhagyaprasad92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-<!--Here are some ideas to get you started:-->
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!-- cSpell:disable -->
+Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 900+ hackathon participants**, and **600+ DSA problems** solved across LeetCode, Codeforces, GeeksforGeeks and CodeChef. Comfortable across state management (Provider, BLoC), on-device AI inference with TensorFlow Lite, and JWT-secured REST APIs on Node.js / Spring Boot backends. Currently open to **Flutter Developer**, **Full Stack**, and **SDE-1** roles on product teams shipping mobile-first software.
 
+<div align="center">
 
-<!-- <h1 align="center"> Hi<img src="https://github.com/omteja04/omteja04/blob/icons/Hi.gif" width="28px"/>, I’m Omteja!</h1> -->
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+<img src="./github-snake-dark.svg" width="860" alt="contribution snake" />
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
 
-<h3 align="center">👨‍💻 A Student Pursuing Bachelor of Technology in Computer Science (CSE)</h3>  
-<h4 align="center">🌟 I enjoy standing out — it’s my way of making an impact.</h4>  
+</div>
 
-🚀 As a passionate **Software Developer**, I have a strong foundation in **programming and problem-solving**.  
-💡 Skilled in multiple languages including **C, Java, Python, HTML, CSS**, and currently exploring **Flutter, Firebase, and AI/ML**.  
-🤝 I love collaborating with diverse teams to build **innovative solutions**.  
-🌐 Always eager to **expand my skills** and contribute to **impactful projects**.  
+### Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+**Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="mobile stack" />
 
-# 📄 Resume
-<p align="center">
-  <a href="https://drive.google.com/file/d/1dtOFWZboxR6cUFr_zgPCzBqAr5nQco11/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20Here-%2300C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+**Languages**
+<img src="https://skillicons.dev/icons?i=dart,c,cpp,java&theme=dark" alt="languages" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="frontend stack" />
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="backend stack" />
+
+**Database**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="database stack" />
+
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins&theme=dark" alt="cloud and devops" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,postman,tensorflow&theme=dark" alt="tools" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
+
+</div>
+
+### Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-bhagyaprasad-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyaprasad/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-bhagyaprasad-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/bhagyaprasad)
+[![CodeChef](https://img.shields.io/badge/CodeChef-bhagyaprasad92-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/bhagyaprasad92)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-bhagyaprasad92-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://auth.geeksforgeeks.org/user/bhagyaprasad92)
+
+600+ DSA problems solved across LeetCode, Codeforces, GeeksforGeeks & CodeChef · LeetCode Top SQL 50 badge · HackerRank SQL Certified (Basic & Intermediate)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <a href="https://leetcode.com/u/bhagyaprasad/"><img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="200" /></a>
 </p>
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhagya-prasad-dannina-65a509291/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://leetcode.com/u/bhagyaprasad/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/></a>
-  <a href="https://www.codechef.com/users/bhagyaprasad92"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="50"/></a>
-  <a href="https://codeforces.com/profile/bhagyaprasad"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="50"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/bhagyaprasad92"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="50"/></a>
-  <a href="https://github.com/Bhagyaprasad92"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://codeforces.com/profile/bhagyaprasad"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad&theme=dark" height="165" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/bhagyaprasad92"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="165" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+<div align="center">
 
-# 🚩 Coding Profiles (Animated Stats)
-<p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/bhagyaprasad/">
-    <img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="230"/>
-  </a>
-  
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/bhagyaprasad92">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=Bhagyaprasad92&theme=dark" height="230"/>
-  </a>
-  
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/bhagyaprasad">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad&theme=dark" height="230"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
 
-  <!-- CodeChef (badge only for now) -->
-  <a href="https://www.codechef.com/users/bhagyaprasad92">
-    <img src="https://img.shields.io/badge/CodeChef-bhagyaprasad92-5B4638?style=for-the-badge&logo=codechef" height="50"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+### Featured Projects
 
-# 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,firebase,flutter,dart,linux,git,github" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+**SafePulse — Edge-AI Travel Safety App**
+`Flutter` `Node.js` `MongoDB` `TensorFlow Lite` `Firebase`
 
-# 🚀 Featured Projects
-<p align="center">
-  <!-- Voice Verse -->
-  <a href="https://voice-verse-25.web.app/">
-    <img src="https://img.shields.io/badge/VoiceVerse-LIVE%20PROJECT-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1A1B27" height="120"/>
-  </a>
+Offline-first crash detection via on-device TFLite inference on
+accelerometer/gyroscope, live journey tracking, and automated SOS
+workflows. Cut emergency response initiation time ~40% vs. manual
+dialling. **Top 7 finalist, 900+ participants.**
 
-  <!-- Portfolio -->
-  <a href="https://github.com/Bhagyaprasad92/my_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=tokyonight"/>
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+**NLtoSQL — Natural Language to SQL Engine**
+`Flutter` `Spring Boot` `Gemini 2.5 Flash` `MySQL`
 
-# 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyaprasad92&theme=tokyonight&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyaprasad92&theme=tokyonight"/>
-</p>
+3-tier microservice that turns plain-English questions into executable
+MySQL queries via prompt engineering, letting non-technical users query
+a 10k-row database with zero SQL knowledge. 95% test coverage.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaprasad92&theme=tokyo-night&area=true"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+**VoiceVerse**
+[![Live](https://img.shields.io/badge/Live%20Project-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://voice-verse-25.web.app/)
 
-## 🏅 GitHub Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagyaprasad92&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="trophies"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-# ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+**Portfolio Site**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=dark" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+</td>
+</tr>
+</table>
 
-# 🏆 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Bhagyaprasad92&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
 
-# 🎯 Visitors Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+### Certifications
 
-<p align="center"><b>💡 "Code. Learn. Build. Repeat."</b></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/RHCSA-Red_Hat-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA" />
+  <img src="https://img.shields.io/badge/MongoDB_Certified-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA-Trilogy-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/GitHub_Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1_%26_2-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
+
+</div>
+
+### GitHub Stats & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhagyaprasad92&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyaprasad92&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyaprasad92&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+<img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=30363d&style=for-the-badge" alt="Profile views" />
+
+**"Code. Learn. Build. Repeat."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+</div>

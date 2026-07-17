@@ -41,7 +41,7 @@ Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="mobile stack" />
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=dart,c,cpp,java&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart&theme=dark" alt="languages" />
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="frontend stack" />
@@ -50,13 +50,13 @@ Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 
 <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="backend stack" />
 
 **Database**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="database stack" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="database stack" />
 
 **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins&theme=dark" alt="cloud and devops" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,firebase&theme=dark" alt="cloud and devops" />
 
 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,postman,tensorflow&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,tensorflow,vscode&theme=dark" alt="tools" />
 
 <div align="center">
 
@@ -101,6 +101,7 @@ accelerometer/gyroscope, live journey tracking, and automated SOS
 workflows. Cut emergency response initiation time ~40% vs. manual
 dialling. **Top 7 finalist, 900+ participants.**
 
+[github](https://github.com/Bhagyaprasad92/safepulse)
 </td>
 <td width="50%" valign="top">
 
@@ -111,19 +112,13 @@ dialling. **Top 7 finalist, 900+ participants.**
 MySQL queries via prompt engineering, letting non-technical users query
 a 10k-row database with zero SQL knowledge. 95% test coverage.
 
+[github](https://github.com/Bhagyaprasad92/NLtoSQL_System)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**VoiceVerse**
-[![Live](https://img.shields.io/badge/Live%20Project-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://voice-verse-25.web.app/)
 
-</td>
-<td width="50%" valign="top">
-
-**Portfolio Site**
-<img src="https://my-github-stats-beta.vercel.app/api/pin/?username=Bhagyaprasad92&repo=my_portfolio&theme=dark" />
 
 </td>
 </tr>

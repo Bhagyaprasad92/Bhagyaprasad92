@@ -47,18 +47,21 @@ HOST = "Bhagyaprasad92"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Engineer"),
-    ("kv", "Role", "Full Stack Developer"),
+    ("kv", "Now", "B. Tech CSE @ Aditya University '27"),
+    ("kv", "Prev", "Flutter Intern @ Technical Hub"),
+    ("kv", "Also", "Competitive Programmer • 600+ DSA"),
+    ("kv", "Focus", "Flutter • Full Stack • SDE-1"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Mobile", "Flutter"),
+    ("kv", "Mobile", "Flutter, Dart, Android"),
     ("kv", "Backend", "Node.js, Spring Boot"),
+    ("kv", "AI", "TensorFlow, PyTorch, Keras, OpenCV"),
     ("kv", "Database", "MongoDB, MySQL"),
     ("gap",),
     ("sec", "Achievements"),
     ("bul", "Top 7 at ProjectSpace Hackathon (900+ participants)"),
-    ("bul", "CodeChef May Long Challenge 2024 (Division 2)"),
-    ("bul", "HackerRank SQL Certified (Basic & Intermediate)"),
+    ("bul", "offline_sos_system -- published on pub.dev, 160/160 score"),
+    ("bul", "Certified: RHCSA, MongoDB Assoc. Dev, CCNA, GitHub Fdn"),
     ("bul", "DSA: 600+ Problems Solved"),
 ]
 

@@ -44,13 +44,20 @@ jobs:
         run: |
           python scripts/make_info_card.py
           
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake-dark.svg?color_snake=#ffa657&color_dots=#161b22,#0b3b5b,#1f6feb,#58a6ff,#22d3ee
+          
       - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/contributions.json contrib-heatmap.svg info-card.svg
+          git add data/contributions.json contrib-heatmap.svg info-card.svg github-snake-dark.svg
           
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"

@@ -103,7 +103,7 @@ dialling. **Top 7 finalist, 900+ participants.**
 
 [github](https://github.com/Bhagyaprasad92/safepulse)
 </td>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top"> -->
 
 **NLtoSQL — Natural Language to SQL Engine**
 `Flutter` `Spring Boot` `Gemini 2.5 Flash` `MySQL`

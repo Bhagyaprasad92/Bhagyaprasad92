@@ -56,10 +56,8 @@ jobs:
           git commit -m "chore: update contribution graph"
           
           for i in {1..3}; do
-            git fetch origin
-            
-            if git rebase origin/main; then
-              if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" HEAD:main --force-with-lease; then
+            if git pull --rebase origin main; then
+              if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" HEAD:main; then
                 echo "Push succeeded"
                 exit 0
               fi

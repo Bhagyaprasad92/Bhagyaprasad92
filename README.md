@@ -187,4 +187,9 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
 
+<p align="center" style="font-size: 11px; color: #7d8590;">
+  &copy; 2026 Bhagya Prasad Dannina. All Rights Reserved.<br>
+  <i>This profile's design, code, and automated workflows are proprietary. Copying or using this repository as a template is strictly prohibited.</i>
+</p>
+
 </div>

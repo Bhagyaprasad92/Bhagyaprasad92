@@ -1,0 +1,19 @@
+name: 📖 Sign Guestbook
+description: Leave a message on my profile guestbook!
+title: 'Guestbook: <Your message here>'
+labels: ["guestbook"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! 🚀 Leave a message below, and it will automatically be added to the Guestbook section of my README.
+        
+  - type: input
+    id: message
+    attributes:
+      label: Your Message
+      description: What would you like to say? Keep it short and sweet! (Max 50 characters)
+      placeholder: "Awesome profile! Keep it up! 🔥"
+    validations:
+      required: true

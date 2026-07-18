@@ -169,7 +169,7 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 
 <!-- GUESTBOOK-START -->
 <ul style="list-style: none;">
-  <li><a href="https://github.com/Bhagyaprasad92"><img src="https://github.com/Bhagyaprasad92.png?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/Bhagyaprasad92">@Bhagyaprasad92</a></b>: <i>"new Tester"</i></li>
+  <li><a href="https://github.com/Bhagyaprasad92"><img src="https://github.com/Bhagyaprasad92.png?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/Bhagyaprasad92">@Bhagyaprasad92</a></b>: <i>"Testing logs"</i></li>
   <li><a href="https://github.com/meghanacheppulla"><img src="https://github.com/meghanacheppulla.png?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/meghanacheppulla">@meghanacheppulla</a></b>: <i>"Awesome Profile!!"</i></li>
   <li><a href="https://github.com/koduruannarao"><img src="https://github.com/koduruannarao.png?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/koduruannarao">@koduruannarao</a></b>: <i>"Good work!"</i></li>
 </ul>

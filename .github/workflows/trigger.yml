@@ -1,0 +1,27 @@
+name: Guestbook Trigger
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  dispatch:
+    if: contains(github.event.issue.body, '### Your Message')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch Event to Private Engine
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.DISPATCH_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'Bhagyaprasad92',
+              repo: 'profile-engine',
+              workflow_id: 'engine.yml',
+              ref: 'main',
+              inputs: {
+                issue_user: context.payload.issue.user.login,
+                issue_body: context.payload.issue.body,
+                issue_number: context.payload.issue.number.toString()
+              }
+            });

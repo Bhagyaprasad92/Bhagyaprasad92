@@ -54,12 +54,25 @@ jobs:
           fi
           
           git commit -m "chore: update contribution graph"
-          git fetch origin main
           
-          if ! git rebase origin/main; then
-            echo "Rebase failed — aborting and exiting (manual resolve required)"
-            git rebase --abort || true
-            exit 1
-          fi
+          for i in {1..3}; do
+            git fetch origin main
+            
+            if git rebase origin/main; then
+              if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" HEAD:main --force-with-lease; then
+                echo "Push succeeded"
+                exit 0
+              fi
+            else
+              echo "Rebase failed on attempt $i"
+              git rebase --abort || true
+            fi
+            
+            if [ $i -lt 3 ]; then
+              echo "Retry attempt $((i+1))..."
+              sleep $((i * 5))
+            fi
+          done
           
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" HEAD:main --force-with-lease
+          echo "Failed to push after 3 attempts"
+          exit 1

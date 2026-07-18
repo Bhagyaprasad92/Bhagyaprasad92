@@ -93,32 +93,22 @@ Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 
 <tr>
 <td width="50%" valign="top">
 
-**SafePulse — Edge-AI Travel Safety App**
+**SafePulse — Edge-AI Travel Safety App**<br>
 `Flutter` `Node.js` `MongoDB` `TensorFlow Lite` `Firebase`
 
-Offline-first crash detection via on-device TFLite inference on
-accelerometer/gyroscope, live journey tracking, and automated SOS
-workflows. Cut emergency response initiation time ~40% vs. manual
-dialling. **Top 7 finalist, 900+ participants.**
+Offline-first crash detection via on-device TFLite inference on accelerometer/gyroscope, live journey tracking, and automated SOS workflows. Cut emergency response initiation time ~40% vs. manual dialling. **Top 7 finalist, 900+ participants.**
 
 [github](https://github.com/Bhagyaprasad92/safepulse)
+
 </td>
-<!-- <td width="50%" valign="top"> -->
-
-**NLtoSQL — Natural Language to SQL Engine**
-`Flutter` `Spring Boot` `Gemini 2.5 Flash` `MySQL`
-
-3-tier microservice that turns plain-English questions into executable
-MySQL queries via prompt engineering, letting non-technical users query
-a 10k-row database with zero SQL knowledge. 95% test coverage.
-
-[github](https://github.com/Bhagyaprasad92/NLtoSQL_System)
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
+**NLtoSQL — Natural Language to SQL Engine**<br>
+`Flutter` `Spring Boot` `Gemini 2.5 Flash` `MySQL`
 
+3-tier microservice that turns plain-English questions into executable MySQL queries via prompt engineering, letting non-technical users query a 10k-row database with zero SQL knowledge. 95% test coverage.
+
+[github](https://github.com/Bhagyaprasad92/NLtoSQL_System)
 
 </td>
 </tr>

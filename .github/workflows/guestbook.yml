@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-guestbook:
-    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    if: contains(github.event.issue.body, '### Your Message')
     runs-on: ubuntu-latest
     
     steps:

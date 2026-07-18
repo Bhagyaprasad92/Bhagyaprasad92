@@ -168,12 +168,9 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 </p>
 
 <!-- GUESTBOOK-START -->
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/Bhagyaprasad92"><img src="https://github.com/Bhagyaprasad92.png?s=60" width="40" style="border-radius:50%" align="left" /></a><b><a href="https://github.com/Bhagyaprasad92">@Bhagyaprasad92</a></b><br/><i>"Welcome to my guestbook! 🚀"</i></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<ul style="list-style: none;">
+  <li><a href="https://github.com/Bhagyaprasad92"><img src="https://github.com/Bhagyaprasad92.png?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/Bhagyaprasad92">@Bhagyaprasad92</a></b>: <i>"Welcome to my guestbook! 🚀"</i></li>
+</ul>
 <!-- GUESTBOOK-END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=860" />

@@ -51,22 +51,15 @@ def update_guestbook():
     with open("data/guestbook.json", "w", encoding="utf-8") as f:
         json.dump(guests, f, indent=2)
         
-    # Generate Markdown Table (2 columns)
-    markdown_lines = ["<table>"]
-    for i in range(0, len(guests), 2):
-        row = guests[i:i+2]
-        markdown_lines.append("  <tr>")
-        for g in row:
-            avatar = g["avatar"]
-            user = g["user"]
-            msg = html.escape(g["message"])
-            cell = f'    <td width="50%"><a href="https://github.com/{user}"><img src="{avatar}?s=60" width="40" style="border-radius:50%" align="left" /></a><b><a href="https://github.com/{user}">@{user}</a></b><br/><i>"{msg}"</i></td>'
-            markdown_lines.append(cell)
-        # Pad row if odd number of guests
-        if len(row) == 1:
-            markdown_lines.append('    <td width="50%"></td>')
-        markdown_lines.append("  </tr>")
-    markdown_lines.append("</table>")
+    # Generate Clean Markdown List
+    markdown_lines = ["<ul style=\"list-style: none;\">"]
+    for g in guests:
+        avatar = g["avatar"]
+        user = g["user"]
+        msg = html.escape(g["message"])
+        line = f'  <li><a href="https://github.com/{user}"><img src="{avatar}?s=60" width="25" style="border-radius:50%; vertical-align:middle;" /></a> <b><a href="https://github.com/{user}">@{user}</a></b>: <i>"{msg}"</i></li>'
+        markdown_lines.append(line)
+    markdown_lines.append("</ul>")
     
     new_html = "\n".join(markdown_lines)
     

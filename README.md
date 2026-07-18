@@ -178,6 +178,9 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 
+<br>
+
+
 <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=30363d&style=for-the-badge" alt="Profile views" />
 
 **"Code. Learn. Build. Repeat."**

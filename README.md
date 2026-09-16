@@ -182,12 +182,13 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 
 <br>
 
-
 <img src="https://komarev.com/ghpvc/?username=Bhagyaprasad92&label=Profile%20Views&color=30363d&style=for-the-badge" alt="Profile views" />
 
 **"Code. Learn. Build. Repeat."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+<a href="https://gitroll.io/profile/u10oqa9cN0CV6VFyt89SmJfZJBMA2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u10oqa9cN0CV6VFyt89SmJfZJBMA2?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 
 <p align="center" style="font-size: 11px; color: #7d8590;">
   &copy; 2026 Bhagya Prasad Dannina. All Rights Reserved.<br>
